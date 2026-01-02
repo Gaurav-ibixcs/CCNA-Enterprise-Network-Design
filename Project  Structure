@@ -1,0 +1,13 @@
+CCNA-Enterprise-Network-Design/
+│
+├── README.md
+├── network-topology.png
+├── packet-tracer-file.pkt
+├── configs/
+│   ├── router-config.txt
+│   ├── switch-config.txt
+│
+└── screenshots/
+    ├── vlan-proof.png
+    ├── ospf-proof.png
+    ├── nat-proof.png
